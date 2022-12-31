@@ -1,4 +1,4 @@
-[![MasterHead]( https://miro.medium.com/max/1000/1*4Ooy5o8rNU841VQSGZ9YbQ.png)
+[![MasterHead](https://www.shutterstock.com/image-vector/abstract-analytical-background-wireframe-algorithm-260nw-1860367135.jpg)
 <h1 align="center">Hi 👋, I'm Wendy Minai</h1>
 <h3 align="center">Active Machine Learning & Deep Learning Expert in predictive analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/female-programmer-coding-computer-vector-illustration-90760617.jpg">
