@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/abstract-analytical-background-wireframe-algorithm-260nw-1860367135.jpg)
+![MasterHead](https://www.shutterstock.com/shutterstock/photos/1901020990/display_1500/stock-photo-kpi-marketing-data-and-predictive-business-analytics-1901020990.jpg)
 <h1 align="center">Hi 👋, I'm Wendy Minai</h1>
 <h3 align="center">Active Machine Learning & Deep Learning Expert in predictive analysis</h3>
  
