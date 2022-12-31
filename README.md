@@ -55,4 +55,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wendyminai&" alt="wendyminai" /></p>
 
-![image](https://user-images.githubusercontent.com/111389636/210149519-9628f0c2-b720-460b-8e21-fe34e594ff40.png)
+![image](https://user-images.githubusercontent.com/111389636/210149797-09f30ed6-8b87-46f3-a775-11b52443f4d3.png)
