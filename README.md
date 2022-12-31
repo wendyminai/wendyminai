@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/shutterstock/photos/1901020990/display_1500/stock-photo-kpi-marketing-data-and-predictive-business-analytics-1901020990.jpg)
+![MasterHead](https://www.calu.edu/academics/undergraduate/bachelors/data-science/_files/sasbachelors-hero.jpg)
 <h1 align="center">Hi 👋, I'm Wendy Minai</h1>
 <h3 align="center">Active Machine Learning & Deep Learning Expert in predictive analysis</h3>
  
