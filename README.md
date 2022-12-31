@@ -1,4 +1,4 @@
-![MasterHead](https://www.calu.edu/academics/undergraduate/bachelors/data-science/_files/sasbachelors-hero.jpg)
+![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610039227/Linkedin_Cover_-_Machine_Learning_Engineer_nv0ytj.png)
 <h1 align="center">Hi 👋, I'm Wendy Minai</h1>
 <h3 align="center">Active Machine Learning & Deep Learning Expert in predictive analysis</h3>
  
